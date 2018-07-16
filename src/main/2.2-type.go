@@ -20,6 +20,7 @@ import (
 //	fmt.Println(reflect.TypeOf(enable))
 //	fmt.Println(reflect.TypeOf(disable))
 //}
+//
 
 // int
 func isInt() {
