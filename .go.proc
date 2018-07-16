@@ -1,0 +1,2 @@
+. /program/basic/go/.go-1.10.1.metadata.prog
+export GOPATH=/home/depuser/golang-ebook
